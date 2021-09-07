@@ -1,0 +1,7 @@
+.modal-account-categories .modal-list li:first-child:nth-last-child(n + 1) {
+  display: none;
+}
+
+.modal-account-categories .modal-list li:first-child:only-child {
+  display: block;
+}
